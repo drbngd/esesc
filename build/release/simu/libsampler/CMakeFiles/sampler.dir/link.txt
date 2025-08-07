@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsampler.a CMakeFiles/sampler.dir/BootLoader.cpp.o CMakeFiles/sampler.dir/PowerGlue.cpp.o CMakeFiles/sampler.dir/PowerModel.cpp.o CMakeFiles/sampler.dir/SamplerBase.cpp.o CMakeFiles/sampler.dir/SamplerPeriodic.cpp.o CMakeFiles/sampler.dir/SamplerSMARTS.cpp.o CMakeFiles/sampler.dir/SamplerSync.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsampler.a

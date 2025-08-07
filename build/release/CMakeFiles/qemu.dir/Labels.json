@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/CMakeFiles/qemu"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/CMakeFiles/qemu.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/CMakeFiles/qemu-complete.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/qemu/stampdir/qemu-build.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/qemu/stampdir/qemu-configure.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/qemu/stampdir/qemu-download.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/qemu/stampdir/qemu-install.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/qemu/stampdir/qemu-mkdir.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/qemu/stampdir/qemu-patch.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/qemu/stampdir/qemu-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qemu"
+		],
+		"name" : "qemu"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/CMakeFiles/floorplan"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/CMakeFiles/floorplan.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/CMakeFiles/floorplan-complete.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/floorplan/stampdir/floorplan-build.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/floorplan/stampdir/floorplan-configure.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/floorplan/stampdir/floorplan-download.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/floorplan/stampdir/floorplan-install.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/floorplan/stampdir/floorplan-mkdir.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/floorplan/stampdir/floorplan-patch.rule"
+		},
+		{
+			"file" : "/Users/drbngd/Developer/github/esesc/build/release/floorplan/stampdir/floorplan-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"floorplan"
+		],
+		"name" : "floorplan"
+	}
+}

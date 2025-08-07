@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libpwrmodel.a CMakeFiles/pwrmodel.dir/PowerStats.cpp.o CMakeFiles/pwrmodel.dir/Wrapper.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libpwrmodel.a

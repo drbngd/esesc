@@ -252,7 +252,7 @@ int     Pm[PNB] = {16, 11, 6, 3};
 int8_t  PGEHLA[PNB][(1 << LOGPNB)];
 int8_t *PGEHL[PNB];
 #else
-// in this case we don´t use the call stack
+// in this case we donï¿½t use the call stack
 #define PNB 2
 #define LOGPNB 11
 int Pm[PNB] = {16, 11};

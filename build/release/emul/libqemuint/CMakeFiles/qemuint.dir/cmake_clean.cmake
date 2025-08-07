@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/qemuint.dir/QEMUEmulInterface.cpp.o"
+  "CMakeFiles/qemuint.dir/QEMUEmulInterface.cpp.o.d"
+  "CMakeFiles/qemuint.dir/QEMUInterface.cpp.o"
+  "CMakeFiles/qemuint.dir/QEMUInterface.cpp.o.d"
+  "CMakeFiles/qemuint.dir/QEMUReader.cpp.o"
+  "CMakeFiles/qemuint.dir/QEMUReader.cpp.o.d"
+  "CMakeFiles/qemuint.dir/esescbinfmt.cpp.o"
+  "CMakeFiles/qemuint.dir/esescbinfmt.cpp.o.d"
+  "libqemuint.a"
+  "libqemuint.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/qemuint.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

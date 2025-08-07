@@ -1,0 +1,1 @@
+cmd='/Users/drbngd/Developer/github/esesc/pwth/floorplan/configure;/Users/drbngd/Developer/github/esesc/pwth/floorplan;/Users/drbngd/Developer/github/esesc/build/release/floorplan'
